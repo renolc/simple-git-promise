@@ -1,4 +1,4 @@
-# simple-git-promise
+# simple-git-promise  [![npm version](https://badge.fury.io/js/simple-git-promise.svg)](https://badge.fury.io/js/simple-git-promise)
 
 **DEPRECATED:** This is just a 1-line wrapper around [`cmd-executor`](https://github.com/renolc/cmd-executor). You should probably just use that instead.
 
