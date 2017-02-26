@@ -11,6 +11,13 @@
   ],
   "author": "Phillip Gibson <gibson.phillip.j@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renolc/simple-git-promise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/renolc/simple-git-promise/issues"
+  },
   "dependencies": {
     "cmd-executor": "^1.1.0"
   }
