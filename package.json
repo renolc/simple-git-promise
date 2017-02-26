@@ -1,0 +1,17 @@
+{
+  "name": "simple-git-promise",
+  "version": "1.2.0",
+  "description": "DEPRECATED: this is just a 1 line wrapper around cmd-executor. You should probably just use that instead",
+  "main": "index.js",
+  "keywords": [
+    "simple",
+    "git",
+    "promise",
+    "proxy"
+  ],
+  "author": "Phillip Gibson <gibson.phillip.j@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cmd-executor": "^1.1.0"
+  }
+}
